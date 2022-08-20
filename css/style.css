@@ -4,8 +4,21 @@ img{
     margin-top: 25px;
 }
 
+.img-poster{
+    height: 360px;
+}
 .item{
     margin: 15px 0;
     text-align: center;
     font-weight: 700;
+}
+h4{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: aqua;
+    
+}
+.jumbotron{
+    margin-bottom: 30px;
 }
